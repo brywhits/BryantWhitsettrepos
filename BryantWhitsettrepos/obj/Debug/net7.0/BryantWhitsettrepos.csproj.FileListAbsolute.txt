@@ -1,0 +1,15 @@
+/Users/bryantwhitsett/repos/BryantWhitsettrepos/BryantWhitsettrepos/bin/Debug/net7.0/BryantWhitsettrepos
+/Users/bryantwhitsett/repos/BryantWhitsettrepos/BryantWhitsettrepos/bin/Debug/net7.0/BryantWhitsettrepos.deps.json
+/Users/bryantwhitsett/repos/BryantWhitsettrepos/BryantWhitsettrepos/bin/Debug/net7.0/BryantWhitsettrepos.runtimeconfig.json
+/Users/bryantwhitsett/repos/BryantWhitsettrepos/BryantWhitsettrepos/bin/Debug/net7.0/BryantWhitsettrepos.dll
+/Users/bryantwhitsett/repos/BryantWhitsettrepos/BryantWhitsettrepos/bin/Debug/net7.0/BryantWhitsettrepos.pdb
+/Users/bryantwhitsett/repos/BryantWhitsettrepos/BryantWhitsettrepos/obj/Debug/net7.0/BryantWhitsettrepos.csproj.AssemblyReference.cache
+/Users/bryantwhitsett/repos/BryantWhitsettrepos/BryantWhitsettrepos/obj/Debug/net7.0/BryantWhitsettrepos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bryantwhitsett/repos/BryantWhitsettrepos/BryantWhitsettrepos/obj/Debug/net7.0/BryantWhitsettrepos.AssemblyInfoInputs.cache
+/Users/bryantwhitsett/repos/BryantWhitsettrepos/BryantWhitsettrepos/obj/Debug/net7.0/BryantWhitsettrepos.AssemblyInfo.cs
+/Users/bryantwhitsett/repos/BryantWhitsettrepos/BryantWhitsettrepos/obj/Debug/net7.0/BryantWhitsettrepos.csproj.CoreCompileInputs.cache
+/Users/bryantwhitsett/repos/BryantWhitsettrepos/BryantWhitsettrepos/obj/Debug/net7.0/BryantWhitsettrepos.dll
+/Users/bryantwhitsett/repos/BryantWhitsettrepos/BryantWhitsettrepos/obj/Debug/net7.0/refint/BryantWhitsettrepos.dll
+/Users/bryantwhitsett/repos/BryantWhitsettrepos/BryantWhitsettrepos/obj/Debug/net7.0/BryantWhitsettrepos.pdb
+/Users/bryantwhitsett/repos/BryantWhitsettrepos/BryantWhitsettrepos/obj/Debug/net7.0/BryantWhitsettrepos.genruntimeconfig.cache
+/Users/bryantwhitsett/repos/BryantWhitsettrepos/BryantWhitsettrepos/obj/Debug/net7.0/ref/BryantWhitsettrepos.dll
